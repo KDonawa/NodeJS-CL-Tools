@@ -19,5 +19,8 @@
   "homepage": "https://github.com/KDonawa/NodeJS-CL-Tools#readme",
   "bin": {
     "nls": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0"
   }
 }
